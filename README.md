@@ -10,3 +10,5 @@ Medium app UI clone made in flutter.
  * Use your favourite editor to [run](https://flutter.io/get-started/test-drive/#androidstudio) the app.
 
 ## Screenshots
+
+<img src=images/img1.png height=300em> <img src=images/img2.png height=300em>
